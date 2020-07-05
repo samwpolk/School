@@ -27,13 +27,3 @@ tf.print(ans)
 [1.48046339, 13.5555582, 0.253571272, 715.676514]
 
 
-
-
-
-
-
-6. Print the version number of TensorFlow and Keras software packages available on Colab.
-
-import tensorflow as tf
-import keras
-keras.__version__
